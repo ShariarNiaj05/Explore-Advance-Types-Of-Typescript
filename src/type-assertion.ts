@@ -1,4 +1,4 @@
-let amni: any;
+let emni: any;
 
 emni = "Next level web development";
 
